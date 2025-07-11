@@ -1,19 +1,21 @@
-pacotes
-- git
-- java
-- pip 
-- python
+pacotes:
+git
+java
+pip 
+python
+npm
 
-apps
-- 1Password
-- Obsidian
-- Discord
-- Spotify
-- Firefox (New version)
-- VSCode
-- Libreoffice
+apps:
+Virtual Box
+1Password
+Obsidian
+Discord
+Spotify
+Firefox (New version)
+VSCode
+Libreoffice
 
-Configurações
-- Alt + x para abrir terminal
-- Terma escuro
-- 
+Configurações:
+Alt + C para abrir captura de tela redimensionada 
+Alt + x para abrir terminal
+Terma escuro
